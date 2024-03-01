@@ -1,2 +1,2 @@
 # Description
-this repository contains various things related to my third year of computer science university
+a repository that contains notes, code, projects, etc. related to the uni
